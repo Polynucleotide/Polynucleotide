@@ -15,8 +15,9 @@
 - [Exploring Assembly](https://github.com/Polynucleotide/Exploring-Assembly-with-FASM) - Exploring x86 Assembly for the first time.
 
 ## Hobbies & Interests
-- **Current:** Warframe, Tom Clancy's Rainbow 6 Siege, Math, Physics  
+- **Games:** Warframe, Tom Clancy's Rainbow 6 Siege, Pokemon (Hardcore Nuzlocke)
+- **Current:** Computer Science, Math, Physics  
 - **Future:** Chemistry, Lockpicking, Watchmaking, Munitions, Woodworking, Blacksmithing  
 
 ## Favorite game genres
-- Detective, Stealth, Competitive  
+- Detective, Stealth, Strategy, Competitive  
