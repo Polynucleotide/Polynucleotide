@@ -18,5 +18,5 @@
 - **Current:** Warframe, Tom Clancy's Rainbow 6 Siege, Math, Physics  
 - **Future:** Chemistry, Lockpicking, Watchmaking, Munitions, Woodworking, Blacksmithing  
 
-## Favorite game genres: 
+## Favorite game genres
 - Detective, Stealth, Competitive  
