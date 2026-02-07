@@ -19,7 +19,7 @@
 
 ## Planned Future Projects (Assuming I'm not dead)
 - Writing a C Compiler
-- Writing Gameboy Emulator
+- Writing a Gameboy Emulator
 - Designing a CPU architecture
 - Writing Notepad in Assembly
 
