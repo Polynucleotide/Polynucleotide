@@ -17,6 +17,12 @@
 - [Devil Daggers GA](https://github.com/Polynucleotide/DevilDaggersGA) - An experimental project where an agent learns how to play Devil Daggers using a Genetic Algorithm.
 - [Exploring Assembly](https://github.com/Polynucleotide/Exploring-Assembly-with-FASM) - Exploring x86 Assembly for the first time.
 
+## Planned Future Projects (Assuming I'm not dead)
+- Writing a C Compiler
+- Writing Gameboy Emulator
+- Designing a CPU architecture
+- Writing Notepad in Assembly
+
 ## Hobbies & Interests
 - **Games:** Warframe, Tom Clancy's Rainbow 6 Siege, Pokemon (Hardcore Nuzlocke)
 - **Current:** Computer Science, Math, Physics  
