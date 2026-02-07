@@ -4,14 +4,14 @@
 
 ### Low-level Enthusiast | Full-stack Developer | Game Developer
 
-## About Me
-- Favorite languages: C++, Assembly  
-- Other languages: C, JavaScript, C#, Python  
-- Frameworks & Libraries: .NET, Node.js, React Native, Flask, Jinja2, OpenGL  
-- Tools: VS, VSCode, Git, Neovim, MySQL  
-
 ## Portfolio
 - [Portfolio](https://github.com/Polynucleotide/Portfolio)
+
+## About Me
+- Favorite languages: C++, C, Assembly  
+- Other languages: JavaScript, C#, Python  
+- Frameworks & Libraries: .NET, Node.js, React Native, Flask, Jinja2, OpenGL  
+- Tools: VS, VSCode, Git, Neovim, MySQL  
 
 ## Featured Projects
 - [Devil Daggers GA](https://github.com/Polynucleotide/DevilDaggersGA) - An experimental project where an agent learns how to play Devil Daggers using a Genetic Algorithm.
