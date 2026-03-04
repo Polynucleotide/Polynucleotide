@@ -26,7 +26,6 @@
 ## Hobbies & Interests
 - **Games:** Warframe, Tom Clancy's Rainbow 6 Siege, Pokemon (Hardcore Nuzlocke)
 - **Current:** Computer Science, Math, Physics  
-- **Future:** Chemistry, Lockpicking, Watchmaking, Munitions, Woodworking, Blacksmithing  
 
 ## Favorite game genres
 - Detective, Stealth, Strategy, Competitive  
